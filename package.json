@@ -18,6 +18,7 @@
     "description": "Qiniu plugin for strapi upload."
   },
   "dependencies": {
+    "into-stream": "^3.1.0",
     "qiniu": "^7.1.7"
   },
   "devDependencies": {
