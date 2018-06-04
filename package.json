@@ -1,5 +1,5 @@
 {
-  "name": "strapi-upload-qiniu",
+  "name": "strapi-upload-qiniucloud",
   "version": "0.1.0",
   "description": "Qiniu plugin for strapi upload.",
   "keywords": [
@@ -12,10 +12,7 @@
   },
   "main": "./lib",
   "strapi": {
-    "name": "strapi-upload-qiniu",
-    "icon": "plug",
-    "isProvider": true,
-    "description": "Qiniu plugin for strapi upload."
+    "isProvider": true
   },
   "dependencies": {
     "into-stream": "^3.1.0",
@@ -38,10 +35,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/minvedacat/strapi-upload-qiniu.git"
+    "url": "git://github.com/minvedacat/strapi-upload-qiniucloud.git"
   },
   "bugs": {
-    "url": "hhttps://github.com/minvedacat/strapi-upload-qiniu/issues"
+    "url": "hhttps://github.com/minvedacat/strapi-upload-qiniucloud/issues"
   },
   "engines": {
     "node": ">= 9.0.0",

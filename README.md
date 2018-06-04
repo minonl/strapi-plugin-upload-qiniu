@@ -1,4 +1,4 @@
-# strapi-upload-qiniu
+# strapi-upload-qiniucloud
 
 This is a [qiniu](https://www.qiniu.com/en) plugin for strapi upload.
 
