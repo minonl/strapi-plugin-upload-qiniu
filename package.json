@@ -1,6 +1,6 @@
 {
   "name": "strapi-plugin-strapi-upload-qiniu",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Qiniu plugin for strapi upload.",
   "keywords": [
     "upload",
