@@ -1,6 +1,6 @@
 {
-  "name": "strapi-upload-qiniucloud",
-  "version": "0.1.0",
+  "name": "strapi-plugin-upload-qiniu",
+  "version": "0.2.0",
   "description": "Qiniu plugin for strapi upload.",
   "keywords": [
     "upload",
@@ -19,7 +19,7 @@
     "qiniu": "^7.1.7"
   },
   "devDependencies": {
-    "strapi-helper-plugin": "3.0.0-alpha.12.2"
+    "strapi-helper-plugin": "3.0.0-alpha.25.2"
   },
   "author": {
     "name": "Min Zhao",
